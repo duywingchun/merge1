@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e8423593eeb5f64980743843952dd8f, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  plantName: "C\xE2y T\xE1o"
+  seedType: 0
+  growthStageSprites:
+  - {fileID: -4933342050920887233, guid: 62100a11e06134146af491d53f9d4c66, type: 3}
+  - {fileID: 5639664214036212299, guid: 757775dc9450188438d6598086cd707f, type: 3}
+  - {fileID: -2819746134950046184, guid: 757775dc9450188438d6598086cd707f, type: 3}
+  stageDurations:
+  - 5
+  - 5
+  seedRewardCount: 2
+  seedPrefab: {fileID: 0}
